@@ -93,3 +93,15 @@ GET ALL VIDEOS BY EMBED ID FROM https://trace.tv
     YOU MUST PURCHASE IT TO BE ABLE TO USE IT ON YOUR SERVERS.
 
     DO NOT WASTE YOUR TIME!!!
+
+![Logo](https://github.com/SxtBox/TRACE_Video_Mix_APIS/blob/main/Screenshot/Clappr_Player.png?raw=true)
+
+![Logo](https://github.com/SxtBox/TRACE_Video_Mix_APIS/blob/main/Screenshot/JW_Player.png?raw=true)
+
+![Logo](https://github.com/SxtBox/TRACE_Video_Mix_APIS/blob/main/Screenshot/KODI1.png?raw=true)
+
+![Logo](https://github.com/SxtBox/TRACE_Video_Mix_APIS/blob/main/Screenshot/KODI2.png?raw=true)
+
+![Logo](https://github.com/SxtBox/TRACE_Video_Mix_APIS/blob/main/Screenshot/KODI3.png?raw=true)
+
+![Logo](https://github.com/SxtBox/TRACE_Video_Mix_APIS/blob/main/Screenshot/VLC.png?raw=true)
