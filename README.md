@@ -2,7 +2,8 @@
 GET ALL VIDEOS BY EMBED ID FROM https://trace.tv
 
 
-# HOSTED API https://paidcodes.albdroid.al/Players/TRACE_Video_Mix
+# HOSTED API
+**https://paidcodes.albdroid.al/Players/TRACE_Video_Mix**
 
     CLICK ON EVERY VIDEO + FIND EMBED ID IN SOURCE CODE
     FIND FOR <div class="video-embed"><iframe src
