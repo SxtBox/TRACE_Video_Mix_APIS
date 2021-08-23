@@ -68,3 +68,28 @@ GET ALL VIDEOS BY EMBED ID FROM https://trace.tv
     [START JW PLAYER]
     SOON
     [END JW PLAYER]
+
+
+# Radio Data
+    Radios -> Kodi
+    Radios -> Smart TV
+
+# Playlist Data
+    VLC
+    Smart TV
+
+# Web Players
+    Clappr Player by id -> ?id=[ID]
+    JW Player by id -> ?id=[ID]
+    Embed Player  by url -> ?url=[Full Video URL]
+    Embed Data [EMBED PHP DATA]
+    Smart TV by id -> ?id=[ID]
+    URL Finder [THIS IS MAIN KING]
+    
+# NOTE
+    SOME OF YOU TRYING TO CONNECT SOME FAKE APPS IN THE API THAT WE HAVE ON OUR SERVERS
+    WE TOLERATE BUT WE CAN NOT ALLOW EACH OF YOU TO PLAY WITH US
+	THESE APIS ARE ONLY DEMOS, NONE OF YOU WILL BE ABLE TO GET CONNECTION FROM OUR API, TIME FOR YOU IS OVER
+    YOU MUST PURCHASE IT TO BE ABLE TO USE IT ON YOUR SERVERS.
+
+    DO NOT WASTE YOUR TIME!!!
